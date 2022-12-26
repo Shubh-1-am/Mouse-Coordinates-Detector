@@ -9,7 +9,9 @@ The Mouse Coordinates Detector is a Java program that detects the current coordi
 
 ## Example Output
 Mouse Coordinates: (100, 200)
+
 Mouse Coordinates: (105, 205)
+
 Mouse Coordinates: (110, 210)
 
 ## Requirements
